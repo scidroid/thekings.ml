@@ -1,0 +1,4 @@
+user-agent: *
+allow: index
+
+sitemap: https://thekings.ml/sitemap.xml
